@@ -9,7 +9,7 @@
 
 # Sequence Detector 1101 (Mealy FSM, Overlap)
 
-## Tested stream (copy-paste)
+## Tested stream
 - input given in testbench=   110111011011011011011001101111101101
 - expected output  =                   000100010010010010010000001000001001
 
