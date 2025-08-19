@@ -10,7 +10,7 @@ d:ns = din?b:a;
 endcase
 end
 always@(posedge clk) begin
-if(reset) ps<=A;
+if(reset) ps<=a;
 else ps<=ns;
 end
 assign y = (ps==d)&din;
